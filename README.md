@@ -10,8 +10,8 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · SQL · MAT
 ## 📌 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| [NYC Flights Analysis](link) | Interactive CLI system to query and visualize 2013 NYC airport flight data | Python, Pandas, Matplotlib |
-| [SIR Epidemic Model](link) | ODE-based disease spread modeling with agent-based spatial simulations | Python, NumPy, SciPy |
+| [NYC Flights Analysis](https://github.com/roquemorales22/nyc-flights-analysis) | Interactive CLI system to query and visualize 2013 NYC airport flight data | Python, Pandas, Matplotlib |
+| [SIR Epidemic Model](https://github.com/roquemorales22/sir-epidemic-model) | ODE-based disease spread modeling with agent-based spatial simulations | Python, NumPy, SciPy |
 
 
 ## 📫 Contact
