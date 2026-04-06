@@ -10,7 +10,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · SQL · MAT
 ## 📌 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Project 1](link) | One line description | Python, Scikit-learn |
+| [NYC Flights Analysis](link) | Interactive CLI system to query and visualize 2013 NYC airport flight data | Python, Pandas, Matplotlib |
 | [Project 2](link) | One line description | Pandas, SQL |
 | [Project 3](link) | One line description | Tableau, Excel |
 
