@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Roque Morales 👋
 
-<!--
-**roquemorales22/roquemorales22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science and Mathematics Engineering undergraduate focused on Machine Learning, Predictive Modeling, Statistical Modeling, Risk Management and Stress Testing.
 
-Here are some ideas to get you started:
+Currently looking for opportunities where I can apply data science to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · SQL · MATLAB · Tableau · Excel
+
+## 📌 Featured Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Project 1](link) | One line description | Python, Scikit-learn |
+| [Project 2](link) | One line description | Pandas, SQL |
+| [Project 3](link) | One line description | Tableau, Excel |
+
+## 📫 Contact
+[LinkedIn](www.linkedin.com/in/roquemoraless) · Mail: roquemorales1022@gmail.com
+
