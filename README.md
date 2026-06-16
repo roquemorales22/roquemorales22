@@ -6,7 +6,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · SQL · MAT
 ## 📌 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| [NPS Promoter Classifier](https://github.com/roquemorales22/nps-promoter-classifier) | ML model to identify what separates a Passive from a Promoter in Mexican banking NPS data — presented to Santander Mexico | Python, Scikit-learn, Plotly, Streamlit |
+| [NPS Promoter Classifier](https://github.com/roquemorales22/nps-predictive-model) | ML model to identify what separates a Passive from a Promoter in Mexican banking NPS data — presented to Santander Mexico | Python, Scikit-learn, Plotly, Streamlit |
 | [NYC Flights Analysis](https://github.com/roquemorales22/nyc-flights-analysis) | Interactive CLI system to query and visualize 2013 NYC airport flight data | Python, Pandas, Matplotlib |
 | [SIR Epidemic Model](https://github.com/roquemorales22/sir-epidemic-model) | ODE-based disease spread modeling with agent-based spatial simulations | Python, NumPy, SciPy |
 ## 📫 Contact
